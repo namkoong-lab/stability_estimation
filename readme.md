@@ -25,7 +25,7 @@ This repository contains all files necessary to generate the plots in the paper 
 
 - **NHIS**
   
-  The data is available upon request.  
+  Data is available upon request.  
 - **Queueing models**
   
   To run the queueing systems code for Figure 4 and Figures 7 - 11, one needs to generate data using the scripts given in  `Stability_queue.ipynb`.
