@@ -1,9 +1,9 @@
-This repository contains all files necessary to generate the plots in the paper [Minimax Optimal Estimation of Stability Under Distribution Shift](https://arxiv.org/abs/2212.06338). 
+This repository contains all files necessary to reproduce the results in the paper [Minimax Optimal Estimation of Stability Under Distribution Shift](https://arxiv.org/abs/2212.06338). 
 
 ## File Structure
 
 - **Simulation Stability.ipynb**  
-  <sub>All the code to generate results for the simulation part: Figures 2 and 3.</sub>
+  <sub>All the code to generate results for the simulation setting: Figures 2 and 3.</sub>
 
 - **Stability_Statistical_Model_NHIS.ipynb**  
   <sub>All the code to generate results for the Health utilization prediction model (NHIS) in Section 5.2 and the appendix.</sub>
@@ -40,7 +40,7 @@ This repository contains all files necessary to generate the plots in the paper 
   
 ## Creating the Environment
 
-To replicate the environment for all code, you can install the required packages using the command below. Note that not all packages may be necessary, as most used in this project are standard. We recommend manually installing any missing packages if issues arise when running the below command.
+To replicate the environment for all code, you can install the required packages using the command below. Note that not all packages are necessary. As most packages used in this project are standard, we recommend manually installing any missing packages if issues arise when running the below command.
 
 ```bash
 conda create -n stability_env python=3.10.12
