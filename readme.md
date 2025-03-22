@@ -40,7 +40,7 @@ This repository contains all files necessary to generate the plots in the paper 
   
 ## Creating the Environment
 
-To repliacte the environment for all code, you can install all the required pacakges using the following command, note that not all pacakges are necessary, since most packages in this project is standard, we recommend manually installing if any bugs occur from running the below code.
+To replicate the environment for all code, you can install the required packages using the command below. Note that not all packages may be necessary, as most used in this project are standard. We recommend manually installing any missing packages if issues arise when running the below command.
 
 ```bash
 conda create -n stability_env python=3.10.12
