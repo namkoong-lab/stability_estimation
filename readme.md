@@ -1,4 +1,4 @@
-This repository contains all files necessary to reproduce the results in the paper [Minimax Optimal Estimation of Stability Under Distribution Shift](https://arxiv.org/abs/2212.06338). 
+This repository contains all files necessary to reproduce the results in the paper [Minimax Optimal Estimation of Stability Under Distribution Shift](https://doi.org/10.1287/opre.2022.0658), the arXiv version is available at [this link](https://arxiv.org/pdf/2212.06338).
 
 ## File Structure
 
@@ -59,5 +59,15 @@ pip install -r requirements.txt
 * **[Hongseok Namkoong](https://hsnamkoong.github.io/)**, **[Yuanzhe Ma](https://yuanzhe-ma.com/)**, and **[Peter W. Glynn](https://web.stanford.edu/~glynn/)**
 * For any questions, please contact Yuanzhe Ma at ym2865@columbia.edu.
 
+### Citation
 
+```bib
+@article{NamkoongMaGlynn25,
+author = {Namkoong, Hongseok and Ma, Yuanzhe and Glynn, Peter W.},
+title = {Minimax Optimal Estimation of Stability Under Distribution Shift},
+journal = {Operations Research}, 
+year = {2025},
+doi = {10.1287/opre.2022.0658}
+}
+```
 
